@@ -1,0 +1,23 @@
+h1 {
+	text-align: center;
+	font-family: "SIMPSON";
+}
+form {
+	width: 600px;
+	margin: 0 auto;
+}
+.error {
+	display: block;
+	color: white;
+	font-size: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+button {
+	background-color: #0096c7 !important;
+
+	border: none !important;
+}
+button:hover {
+	border: 1px solid !important;
+}
